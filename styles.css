@@ -24,21 +24,21 @@ body {
     width: 99vw;
     height: 100vh;
     font-size: 3vw;
-    background-color: blueviolet;
+    background-color: aqua;
     text-align: center;
 }
 
 
 
 .movie-section{
-    width: 99vw;
+    width: 100vw;
     height: 100vh;
-    display:block;
+    display: inline-block;
 }
 
 img{
     display: inline-block;
-    width: 49vw;
+    width: 50%;
     height: 100%;
 }
 
